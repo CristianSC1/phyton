@@ -1,1 +1,5 @@
-python manage.py runserver 
+.\Scripts\activate
+
+python manage.py runserver  ------->inicias proyecto
+
+python manage.py startapp polls --->agregas una nueva vista
